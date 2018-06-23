@@ -1,0 +1,10 @@
+table {
+    table-layout: fixed;
+}
+.input-group {
+    margin: 20px 0;
+}
+th, td {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
